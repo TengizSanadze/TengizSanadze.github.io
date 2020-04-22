@@ -1,4 +1,4 @@
-logo: "/images/83277617_4005158919501673_879449056990986240_o.jpg?raw=true" # your photo (or logo) here
+logo: "/images/Experience-Blog-1080x606.jpg?raw=true" # your photo (or logo) here
 
 
 Act as Server Administrator for 20+ Microsoft Servers running Windows Server 2003/2008. Administer all Cisco equipment, including switches, routers, firewalls, VPN, and security appliances. Serve as Microsoft Exchange Administrator for 150+ user accounts. Monitor Solar Winds network. Maintain multiple SQL Servers, Network Monitor Servers, backup servers, Document Imaging systems, GIS, and Web Servers.
