@@ -9,7 +9,7 @@ I was always interested in Cuber security. Even though for now I know nothing ab
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="download.jpg?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
