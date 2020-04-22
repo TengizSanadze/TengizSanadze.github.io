@@ -12,8 +12,8 @@ I was always interested in Cuber security. Even though for now I know nothing ab
 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[FB Page](https://www.facebook.com/bachosanadze)
+
 
 ---
 
