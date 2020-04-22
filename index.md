@@ -4,7 +4,7 @@ I was always interested in Cuber security. Even though for now I know nothing ab
 
 
 
-[Experience](/sample)
+[Experience](/sample_page.md)
 
 
 ---
