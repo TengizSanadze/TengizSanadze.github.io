@@ -2,9 +2,9 @@ title: Tengiz Sanadze # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br>Hello<br>
+  <br>"Hello"<br>
   Second description 
-  <br>World<br>
+  <br>"World"<br>
   <a href="https://www.linkedin.com/onboarding/start/member-to-member-invitations/existing/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
