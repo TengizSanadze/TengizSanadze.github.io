@@ -4,8 +4,8 @@ I was always interested in Cuber security. Even though for now I know nothing ab
 
 
 
-[Experience](/download)
-<img src="Experience-Blog-1080x606.jpeg?raw=true"/>
+[Experience](/sample)
+<img src="download.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
