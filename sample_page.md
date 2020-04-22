@@ -1,3 +1,6 @@
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
 ### Experience in Network Administration
 
 Act as Server Administrator for 20+ Microsoft Servers running Windows Server 2003/2008. Administer all Cisco equipment, including switches, routers, firewalls, VPN, and security appliances. Serve as Microsoft Exchange Administrator for 150+ user accounts. Monitor Solar Winds network. Maintain multiple SQL Servers, Network Monitor Servers, backup servers, Document Imaging systems, GIS, and Web Servers.
