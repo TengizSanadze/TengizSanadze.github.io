@@ -8,7 +8,7 @@ I was always interested in Cuber security. Even though for now I know nothing ab
 
 
 ---
-[Project 2 Title](/pdf/bachy33E6Ey_rcMRJS-0qZwYaLp2XSTDNdFYlGVh-N.pdf)
+[Resume](/pdf/bachy33E6Ey_rcMRJS-0qZwYaLp2XSTDNdFYlGVh-N.pdf)
 
 
 ---
