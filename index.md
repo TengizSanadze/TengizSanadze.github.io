@@ -5,7 +5,7 @@ I was always interested in Cuber security. Even though for now I know nothing ab
 
 
 [Experience](/sample_page)
-<img src="Experience-Blog-1080x606.jpg?raw=true"/>
+<img src="Experience-Blog-1080x606.jpeg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
