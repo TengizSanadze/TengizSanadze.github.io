@@ -1,5 +1,4 @@
-<img src="download.jpg?raw=true"/>
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 ### Experience in Network Administration
 
 
