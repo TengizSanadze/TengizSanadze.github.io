@@ -15,7 +15,7 @@
 </td> </tr> <tr> <td>
 <label for="FromEmailAddress">Email address*:</label>
 </td> <td>
-<input name="FromEmailAddress" type="text" maxlength="90" style="width:250px;" />
+
 </td> </tr> <tr> <td>
 
 </td> <td>
