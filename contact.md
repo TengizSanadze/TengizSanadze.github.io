@@ -16,13 +16,7 @@
 <label for="FromEmailAddress">Email address*:</label>
 </td> <td>
 <input name="FromEmailAddress" type="text" maxlength="90" style="width:250px;" />
-</td> </tr> <tr> <td>
 
-</td> <td>
-
-</td> </tr> <tr> <td>
-
-</td> <td>
 
 <input name="skip_Submit" type="submit" value="Submit" />
 
