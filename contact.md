@@ -23,9 +23,9 @@
 </td> </tr> <tr> <td>
 
 </td> <td>
-<div style="float:right"><a href="https://www.100forms.com" id="lnk100" title="form to email">form to email</a></div>
+
 <input name="skip_Submit" type="submit" value="Submit" />
-<script src="https://www.100forms.com/js/FORMKEY:XJ3T2LA95B8P/SEND:my@email.com" type="text/javascript"></script>
+
 </td> </tr>
 </table>
 </form>
