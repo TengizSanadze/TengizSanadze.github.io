@@ -2,7 +2,7 @@
 <form action="//submit.form" id="ContactUs100" method="post" onsubmit="return ValidateForm(this);">
 
 
-</script>
+
 <table style="width:550px;border:0;" cellpadding="8" cellspacing="0">
 <tr> <td>
 <label for="Name">Name*:</label>
