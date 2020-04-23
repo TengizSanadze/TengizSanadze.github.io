@@ -1,6 +1,6 @@
 
 <form action="//submit.form" id="ContactUs100" method="post" onsubmit="return ValidateForm(this);">
-<script type="text/javascript">
+
 
 </script>
 <table style="width:550px;border:0;" cellpadding="8" cellspacing="0">
