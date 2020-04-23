@@ -17,9 +17,9 @@
 </td> <td>
 <input name="FromEmailAddress" type="text" maxlength="90" style="width:250px;" />
 </td> </tr> <tr> <td>
-<label for="Comments">Comments*:</label>
+
 </td> <td>
-<textarea name="Comments" rows="7" cols="40" style="width:350px;"></textarea>
+
 </td> </tr> <tr> <td>
 * - required fields
 </td> <td>
