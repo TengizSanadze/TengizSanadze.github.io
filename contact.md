@@ -13,7 +13,7 @@
 </td> <td>
 <input name="PhoneNumber" type="text" maxlength="43" style="width:250px;" />
 </td> </tr> <tr> <td>
-<label for="FromEmailAddress">Email address*:</label>
+
 </td> <td>
 
 </td> </tr> <tr> <td>
